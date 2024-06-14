@@ -1,0 +1,32 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(244, 226, 226);
+    }
+    .btn-primary {
+        
+    background-color: rgb(107, 65, 65);
+    border: 0cap;
+    }
+    .progress{
+    margin-top: 40px;
+    width: 300px;
+    border-radius: .25rem;
+    width: 500px;
+    height: 40px;
+    }
+    .progress-bar{
+    margin-top: 40px;
+    background-color: rgb(176, 243, 190);
+    }
+    .input-group{
+    width: 50% ;
+    height: 50%;
+    }
+    .form-control{
+
+    height: 152px;
+    }
